@@ -4,6 +4,7 @@ public class Student {
     public static void main(String[] args) {
         System.out.println("args 222= " + args);
         System.out.println("\"1111111\" = " + "1111111");
+        System.out.println("\"4444\" = " + "4444");
 
     }
 }
